@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustercncrypt",
+        "uuid": 132405,
+        "checksum": "iuvgdo"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
